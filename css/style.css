@@ -1,0 +1,86 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Ubuntu', sans-serif;
+}
+
+span {
+    padding-right: 15px;
+}
+
+a:link {
+    color: white;
+    background-color: transparent;
+    text-decoration: underline;
+}
+
+.left-container {
+    background-color: #0F3D3E;
+    text-align: center;
+}
+.right-container{
+    padding-top: 20px;
+    padding-left: 40px !important;
+    color: #0F3D3E;
+}
+.profile-image {
+    width: 200px;
+    margin: 10px 0 20px 0;
+}
+.profile-name {
+    color: white;
+    font-size: 3rem;
+    font-weight: bold;
+}
+.profile-description {
+    color: white;
+    padding-bottom: 50px;
+}
+.left-heading {
+    text-align: left;
+    color: white;
+    font-size: 2rem;
+    font-weight: bold;
+    padding-bottom: 15px;
+}
+.right-heading {
+    text-align: left;
+    color: #0F3D3E;
+    font-size: 2rem;
+    font-weight: bold;
+    padding-left: 10px;
+    padding-bottom: 15px;
+}
+
+.left-text {
+    text-align: left;
+    color: white;
+    padding-left: 20px;
+}
+.last-text {
+    padding-bottom: 40px;
+}
+.skills-progress {
+    margin: -10px 5% 2% 5%;
+}
+.interests-progress {
+    margin: -35px 5% 3% 200px;
+}
+
+.right-main-text {
+    font-weight: bold;
+    padding-left: 20px;
+}
+.right-text {
+    padding-left: 50px;
+    color: black;
+}
+.right-subtext {
+    padding-left: 50px;
+    color: black;
+    margin-top: -10px;
+}
+.left-last-text {
+    margin-bottom: 30px;
+}
